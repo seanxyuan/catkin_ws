@@ -1,0 +1,4 @@
+bool hopperMaterialLevel
+bool hooperBreaker
+bool hooperBreakerError
+

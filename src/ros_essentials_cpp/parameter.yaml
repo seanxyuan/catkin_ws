@@ -1,0 +1,11 @@
+global_integer_value: 10
+test: 99.99999999999999999999999
+simple_parameters:
+  integer_value: 27
+  point: {x: 1.4, y: 3.25}
+  simple_string: Test Value
+roboclaw#1:
+  pid: {p: 10, i: 1, d: 0.1}
+  pps: 100000
+  address: 1099
+

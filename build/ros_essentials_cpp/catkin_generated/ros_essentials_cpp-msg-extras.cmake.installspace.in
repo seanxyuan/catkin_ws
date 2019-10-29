@@ -1,0 +1,2 @@
+set(ros_essentials_cpp_MESSAGE_FILES "msg/MASTER.msg;msg/CART_WAGON.msg;msg/CART_DOSER.msg;msg/CART_HOPPER.msg;msg/CART_WETTING.msg;msg/CART_MIXER.msg;msg/CART_PUMP.msg;msg/DELIVERY.msg;msg/ARDUINO_I.msg;msg/ARDUINO_O.msg;msg/CART_MCU_O.msg;msg/TOWER_MCU_O.msg;msg/FibonacciAction.msg;msg/FibonacciActionGoal.msg;msg/FibonacciActionResult.msg;msg/FibonacciActionFeedback.msg;msg/FibonacciGoal.msg;msg/FibonacciResult.msg;msg/FibonacciFeedback.msg")
+set(ros_essentials_cpp_SERVICE_FILES "srv/AddTwoInts.srv")

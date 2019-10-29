@@ -1,0 +1,8 @@
+prefix=/home/xy/catkin_ws/install
+
+Name: lesson_simple_parameters
+Description: Description of lesson_simple_parameters
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xy/catkin_ws/install/lib 
+Requires: roscpp

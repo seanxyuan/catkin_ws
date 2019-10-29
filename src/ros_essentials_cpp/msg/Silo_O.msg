@@ -1,0 +1,27 @@
+bool relay1Error
+bool relay2Error
+bool relay3Error
+bool relay4Error
+bool relay5Error
+bool relay6Error
+bool relay7Error
+bool relay8Error
+bool sensor1
+bool sensor2
+bool sensor3
+bool sensor4
+bool sensor5
+bool sensor6
+bool sensor7
+bool sensor8
+int8 temperature
+int8 humidity
+int8 windSpeed
+int8 concreteTemperature
+int8 accelXNozzle
+int8 accelYNozzle
+int8 accelZNozzle
+int8 accelXCart
+int8 accelYCart
+int8 accelZCart
+

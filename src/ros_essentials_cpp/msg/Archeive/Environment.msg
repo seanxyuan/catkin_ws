@@ -1,0 +1,4 @@
+float localTemperature
+float localHumidity
+float windSpeed
+float waterTemperature

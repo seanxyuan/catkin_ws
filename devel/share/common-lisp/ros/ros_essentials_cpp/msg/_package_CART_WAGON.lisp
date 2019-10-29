@@ -1,0 +1,14 @@
+(cl:in-package ros_essentials_cpp-msg)
+(cl:export '(WAGONDISTANCE-VAL
+          WAGONDISTANCE
+          WAGONINPOSITION-VAL
+          WAGONINPOSITION
+          WAGONGATEOPEN-VAL
+          WAGONGATEOPEN
+          WAGONGATESPEED-VAL
+          WAGONGATESPEED
+          WAGONGATEMOTORCURRENT-VAL
+          WAGONGATEMOTORCURRENT
+          WAGONGATECLOSED-VAL
+          WAGONGATECLOSED
+))

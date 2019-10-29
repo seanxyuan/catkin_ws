@@ -1,0 +1,8 @@
+prefix=/home/xy/catkin_ws/devel
+
+Name: ros_basics_turotials
+Description: Description of ros_basics_turotials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/xy/catkin_ws/devel/lib 
+Requires: 

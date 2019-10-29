@@ -1,0 +1,12 @@
+test: 1
+robolaw#1:
+  pid: {p: 10, i: 1, d: 0.1, qpps: 100000}
+  address: 0x80
+robolaw#2:
+  pid: {p: 10, i: 1, d: 0.1, qpps: 100000}
+  address: 0x81
+robolaw#3:
+  address: 0x82
+robolaw#4:
+  address: 0x83
+

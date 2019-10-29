@@ -1,0 +1,6 @@
+int8 wagonDistance
+bool wagonInPosition
+bool wagonGateOpen
+int8 wagonGateSpeed
+int8 wagonGateMotorCurrent
+bool wagonGateClosed

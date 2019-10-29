@@ -1,0 +1,7 @@
+bool main24Vpower
+bool towerEstop
+bool gantryEstop
+bool cartEstop
+bool humanInconstructionzone
+float humanInconstructionzonex
+float humanInconstructionzoney
